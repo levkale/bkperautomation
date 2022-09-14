@@ -1,0 +1,5 @@
+1. Create a book (May use a template) 
+2. On existing book create multiple accounts, divide them into groups with names corresponding to the departments.
+3. On the Bkper Bank Connection page connect the employees Expensify credit cards. Now the every transactions made is recorded into Bkper book.
+4. Set up #hashtags to organize common types of transactions. 
+5. With the aim of retrieving expense reports Bkper add-on should be installed, now the transactions/accounts/groups/balances might be fetched to Google Sheets.
